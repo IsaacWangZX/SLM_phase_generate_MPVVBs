@@ -17,8 +17,8 @@ Python_Upload/
 │   ├── __init__.py
 │   ├── core.py             # 模型：Layer、slm_phase、simulate
 │   ├── fileio.py           # 相位图保存（png/bmp/tif/npy/csv/mat），读取 .fig
-│   ├── plotting.py         # 论文排版的绘图
-│   ├── paper.py            # 论文图2–图5 的算例
+│   ├── plotting.py         # 排版的绘图
+│   ├── paper.py            # 算例
 │   ├── cli.py              # 命令行
 │   └── __main__.py
 └── examples/
